@@ -1,3 +1,3 @@
 # myfirstpackage
 - an simple example of constructing an R package
-- to test commit and push bewteen github and Rstudio
+- to test commit and push between github and Rstudio
